@@ -1,0 +1,40 @@
+# Possible build output dirs
+[Bb]uild
+[Oo]ut
+[Dd]ist
+[Ll]ib
+[Bb]in
+
+# Windows / MSVC output files / build data
+*.exe
+*.dll
+*.lib
+*.pdb
+*.exp
+*.ilk
+
+# Unix output files / build stuff
+*.out
+*.so
+*.a
+
+# Compiler intermediate files (AKA, weird stuff)
+*.i
+*.obj
+*.[sS]
+
+# Text file formats
+*.doc
+*.docx
+*.rst
+*.pdf
+
+# File archives
+*.tar
+*.zip
+*.bz2
+*.rar
+*.7z
+*.gz
+*.xz
+*.z
