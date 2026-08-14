@@ -12,11 +12,11 @@ Proteus is free, open source software. It's licensed under the highly popular, h
 
 ### Pre-built tools
 
-You can download a pre-built, stable suite of tools in the [releases](./releases) page of this repository.
+You can download a pre-built, stable suite of tools in the [releases](../../releases) page of this repository.
 
 ### Pre-built library
 
-If you're _code-first_ you can download a pre-built static library of Proteus, including docs and headers from the [releases](./releases) page of the repository.
+If you're _code-first_ you can download a pre-built static library of Proteus, including docs and headers from the [releases](../../releases) page of the repository.
 
 ### Build from source
 
@@ -28,6 +28,6 @@ All coming soon. At the moment, the project isn't stable enough for this, so dem
 
 ## Contributing
 
-Contributions are welcome and encouraged. If you find a weird bug, think of a feature improvement or have any suggestions for the engine, raise an issue on the [issues](./issues) page before you start working on it!
+Contributions are welcome and encouraged. If you find a weird bug, think of a feature improvement or have any suggestions for the engine, raise an issue on the [issues](../../issues) page before you start working on it!
 
 Documentation of C++ style guides and a general code of conduct are WIP at the moment. (as of 08-14-2026)
